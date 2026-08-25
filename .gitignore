@@ -1,0 +1,9 @@
+.DS_Store
+.Rhistory
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+graph/
+resultat/
+.venv/
+venv/
